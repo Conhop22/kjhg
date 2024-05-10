@@ -85,7 +85,7 @@ const Home = ({ t, i18n, loading }) => {
 							</button>
 						</Link>
 						<a
-							href="https://github.com/tannerkrewson/spyfall/blob/dev/README.md#history"
+							href="https://conhop22.github.io/kjhg/"
 							target="_blank"
 							rel="noopener noreferrer"
 							style={{ width: "100%" }}
