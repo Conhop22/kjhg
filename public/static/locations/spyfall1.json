@@ -1,0 +1,342 @@
+{
+	"id": "spyfall1",
+	"name": "Spyfall 1",
+	"locations": [
+		{
+			"name": "locations.chessboard",
+			"roles": [
+				"locations.roles.chessboard.King",
+				"locations.roles.chessboard.Queen",
+				"locations.roles.chessboard.Bishop",
+				"locations.roles.chessboard.Rook",
+				"locations.roles.chessboard.Knight",
+				"locations.roles.chessboard.Pawn",
+				"locations.roles.chessboard.Aiden"
+			]
+		},
+		{
+			"name": "locations.twinTowers",
+			"roles": [
+				"locations.roles.twinTowers.pilot",
+				"locations.roles.twinTowers.president",
+				"locations.roles.twinTowers.office worker",
+				"locations.roles.twinTowers.terrorist",
+				"locations.roles.twinTowers.copilot",
+				"locations.roles.twinTowers.kindergartener",
+				"locations.roles.twinTowers.news host"
+			]
+		},
+		{
+			"name": "locations.mexicanBorder",
+			"roles": [
+				"locations.roles.mexicanBorder.border patrol",
+				"locations.roles.mexicanBorder.Lester",
+				"locations.roles.mexicanBorder.escapee",
+				"locations.roles.mexicanBorder.Sharpshooter",
+				"locations.roles.mexicanBorder.prisoner",
+				"locations.roles.mexicanBorder.train Driver",
+				"locations.roles.mexicanBorder.tank Driver"
+			]
+		},
+		{
+			"name": "locations.Wordle",
+			"roles": [
+				"locations.roles.Wordle.word",
+				"locations.roles.Wordle.yellow letter",
+				"locations.roles.Wordle.green letter",
+				"locations.roles.Wordle.grey letter",
+				"locations.roles.Wordle.unguessed letter",
+				"locations.roles.Wordle.angry person",
+				"locations.roles.Wordle.hardmode player"
+			]
+		},
+		{
+			"name": "locations.circus tent",
+			"roles": [
+				"locations.roles.circus tent.Lester",
+				"locations.roles.circus tent.Aiden",
+				"locations.roles.circus tent.Connor",
+				"locations.roles.circus tent.Gabriel",
+				"locations.roles.circus tent.Aiden",
+				"locations.roles.circus tent.James",
+				"locations.roles.circus tent.AMERICAN!"
+			]
+		},
+		{
+			"name": "locations.theTag",
+			"roles": [
+				"locations.roles.theTag.tagger",
+				"locations.roles.theTag.tag-meister",
+				"locations.roles.theTag.runner",
+				"locations.roles.theTag runner",
+				"locations.roles.theTag runner",
+				"locations.roles.theTag runner",
+				"locations.roles.theTag Goofus"
+			]
+		},
+		{
+			"name": "locations.AMERICA early 1860s",
+			"roles": [
+				"locations.roles.AMERICA early 1860s.racist",
+				"locations.roles.AMERICA early 1860s.slave",
+				"locations.roles.AMERICA early 1860s.slaveholder",
+				"locations.roles.AMERICA early 1860s.abolitionist",
+				"locations.roles.AMERICA early 1860s.Abraham Lincoln",
+				"locations.roles.AMERICA early 1860s.Union soldier",
+				"locations.roles.AMERICA early 1860s.Confederate soldier"
+			]
+		},
+		{
+			"name": "locations.casino",
+			"roles": [
+				"locations.roles.casino.Lester",
+				"locations.roles.casino.Aiden",
+				"locations.roles.casino.bouncer",
+				"locations.roles.casino.manager",
+				"locations.roles.casino.hustler",
+				"locations.roles.casino.dealer",
+				"locations.roles.casino.COLONEL SANDERS"
+			]
+		},
+		{
+			"name": "locations.crime scene",
+			"roles": [
+				"locations.roles.crime scene.criminal",
+				"locations.roles.crime scene.cop",
+				"locations.roles.crime scene.victim",
+				"locations.roles.crime scene.whitness",
+				"locations.roles.crime scene.framed",
+				"locations.roles.crime scene.victim's parent",
+				"locations.roles.crime scene.not really a whitness"
+			]
+		},
+		{
+			"name": "locations.bomber",
+			"roles": [
+				"locations.roles.bomber.bombadier",
+				"locations.roles.bomber.pilot",
+				"locations.roles.bomber.copilot",
+				"locations.roles.bomber.belly gunner",
+				"locations.roles.bomber.top gunner",
+				"locations.roles.bomber.nose gunner",
+				"locations.roles.bomber.tail gunner"
+			]
+		},
+		{
+			"name": "locations.hospital",
+			"roles": [
+				"locations.roles.hospital.nurse",
+				"locations.roles.hospital.doctor",
+				"locations.roles.hospital.anesthesiologist",
+				"locations.roles.hospital.intern",
+				"locations.roles.hospital.therapist",
+				"locations.roles.hospital.surgeon",
+				"locations.roles.hospital.patient"
+			]
+		},
+		{
+			"name": "locations.hole",
+			"roles": [
+				"locations.roles.hole.homeless guy",
+				"locations.roles.hole.homeless guy",
+				"locations.roles.hole.homeless guy",
+				"locations.roles.hole.homeless guy",
+				"locations.roles.hole.homeless guy",
+				"locations.roles.hole.homeless guy",
+				"locations.roles.hole.genocidal murderer"
+			]
+		},
+		{
+			"name": "locations.military base",
+			"roles": [
+				"locations.roles.military base.deserter",
+				"locations.roles.military base.colonel",
+				"locations.roles.military base.medic",
+				"locations.roles.military base.sniper",
+				"locations.roles.military base.officer",
+				"locations.roles.military base.tank engineer",
+				"locations.roles.military base.soldier"
+			]
+		},
+		{
+			"name": "locations.Breakfast",
+			"roles": [
+				"locations.roles.Breakfast.bottle-flip master",
+				"locations.roles.Breakfast.sadistic planner",
+				"locations.roles.Breakfast.cowboy",
+				"locations.roles.Breakfast.chess player",
+				"locations.roles.Breakfast.intruding speaker",
+				"locations.roles.Breakfast.j a m e s",
+				"locations.roles.Breakfast.the news guy"
+			]
+		},
+		{
+			"name": "locations.minecraft",
+			"roles": [
+				"locations.roles.minecraft.steve",
+				"locations.roles.minecraft.alex",
+				"locations.roles.minecraft.creeper",
+				"locations.roles.minecraft.wither",
+				"locations.roles.minecraft.ender dragon",
+				"locations.roles.minecraft.skeleton",
+				"locations.roles.minecraft.zombie"
+			]
+		},
+		{
+			"name": "locations.terraria",
+			"roles": [
+				"locations.roles.terraria.dead npc",
+				"locations.roles.terraria.raging player",
+				"locations.roles.terraria.slime",
+				"locations.roles.terraria.modder",
+				"locations.roles.terraria.Empress of Light",
+				"locations.roles.terraria.Perfortor",
+				"locations.roles.terraria.WAR CRIMINAL"
+			]
+		},
+		{
+			"name": "locations.pirate ship",
+			"roles": [
+				"locations.roles.pirate ship.cook",
+				"locations.roles.pirate ship.slave",
+				"locations.roles.pirate ship.cannoneer",
+				"locations.roles.pirate ship.tied up prisoner",
+				"locations.roles.pirate ship.cabin boy",
+				"locations.roles.pirate ship.idiot captain",
+				"locations.roles.pirate ship.sailor"
+			]
+		},
+		{
+			"name": "locations.polar station",
+			"roles": [
+				"locations.roles.polar station.medic",
+				"locations.roles.polar station.expedition leader",
+				"locations.roles.polar station.biologist",
+				"locations.roles.polar station.radioman",
+				"locations.roles.polar station.hydrologist",
+				"locations.roles.polar station.meteorologist",
+				"locations.roles.polar station.geologist"
+			]
+		},
+		{
+			"name": "locations.police station",
+			"roles": [
+				"locations.roles.police station.detective",
+				"locations.roles.police station.lawyer",
+				"locations.roles.police station.journalist",
+				"locations.roles.police station.criminalist",
+				"locations.roles.police station.archivist",
+				"locations.roles.police station.criminal",
+				"locations.roles.police station.patrol officer"
+			]
+		},
+		{
+			"name": "locations.restaurant",
+			"roles": [
+				"locations.roles.restaurant.musician",
+				"locations.roles.restaurant.bouncer",
+				"locations.roles.restaurant.hostess",
+				"locations.roles.restaurant.head chef",
+				"locations.roles.restaurant.food critic",
+				"locations.roles.restaurant.waiter",
+				"locations.roles.restaurant.customer"
+			]
+		},
+		{
+			"name": "locations.school",
+			"roles": [
+				"locations.roles.school.gym teacher",
+				"locations.roles.school.principal",
+				"locations.roles.school.security guard",
+				"locations.roles.school.janitor",
+				"locations.roles.school.cafeteria lady",
+				"locations.roles.school.maintenance man",
+				"locations.roles.school.student"
+			]
+		},
+		{
+			"name": "locations.service station",
+			"roles": [
+				"locations.roles.service station.goofus",
+				"locations.roles.service station.goofus",
+				"locations.roles.service station.goofus",
+				"locations.roles.service station.goofus",
+				"locations.roles.service station.goofus",
+				"locations.roles.service station.goofus",
+				"locations.roles.service station.goofus"
+			]
+		},
+		{
+			"name": "locations.space station",
+			"roles": [
+				"locations.roles.space station.amongus character",
+				"locations.roles.space station.alien",
+				"locations.roles.space station.pilot",
+				"locations.roles.space station.Obi won kanobi",
+				"locations.roles.space station.star trek",
+				"locations.roles.space station.dog",
+				"locations.roles.space station.terrorist"
+			]
+		},
+		{
+			"name": "locations.submarine",
+			"roles": [
+				"locations.roles.submarine.torpedo master",
+				"locations.roles.submarine.commander",
+				"locations.roles.submarine.sonar technician",
+				"locations.roles.submarine.Sociopath",
+				"locations.roles.submarine.idiot sargeant",
+				"locations.roles.submarine.major major",
+				"locations.roles.submarine.your probably dead fish"
+			]
+		},
+		{
+			"name": "locations.supermarket",
+			"roles": [
+				"locations.roles.supermarket.robber",
+				"locations.roles.supermarket.shopper",
+				"locations.roles.supermarket.dead guy",
+				"locations.roles.supermarket.can",
+				"locations.roles.supermarket.violent child",
+				"locations.roles.supermarket.terrorist",
+				"locations.roles.supermarket.Rocky (the dog)"
+			]
+		},
+		{
+			"name": "locations.Legend of Zelda",
+			"roles": [
+				"locations.roles.Legend of Zelda.Zelda",
+				"locations.roles.Legend of Zelda.Link",
+				"locations.roles.Legend of Zelda.Ganon",
+				"locations.roles.Legend of Zelda.Bokoblin",
+				"locations.roles.Legend of Zelda.Gleeok",
+				"locations.roles.Legend of Zelda.Moblin",
+				"locations.roles.Legend of Zelda.THE OLD MAN"
+			]
+		},
+		{
+			"name": "locations.university",
+			"roles": [
+				"locations.roles.university.graduate student",
+				"locations.roles.university.professor",
+				"locations.roles.university.dean",
+				"locations.roles.university.psychologist",
+				"locations.roles.university.maintenance man",
+				"locations.roles.university.janitor",
+				"locations.roles.university.student"
+			]
+		},
+		{
+			"name": "locations.world war ii squad",
+			"roles": [
+				"locations.roles.world war ii squad.resistance fighter",
+				"locations.roles.world war ii squad.radioman",
+				"locations.roles.world war ii squad.scout",
+				"locations.roles.world war ii squad.medic",
+				"locations.roles.world war ii squad.cook",
+				"locations.roles.world war ii squad.imprisoned nazi",
+				"locations.roles.world war ii squad.soldier"
+			]
+		}
+	]
+}
