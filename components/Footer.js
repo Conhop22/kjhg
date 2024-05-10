@@ -4,7 +4,7 @@ const Footer = () => (
 	<div className="footer">
 		Spyfall by{" "}
 		<a
-			href="https://conhop22.github.io/kjhg/"
+			href="https://www.tannerkrewson.com/"
 			target="_blank"
 			rel="noopener noreferrer"
 		>
@@ -12,7 +12,7 @@ const Footer = () => (
 		</a>
 		<br />
 		<a
-			href="https://conhop22.github.io/kjhg/"
+			href="https://github.com/tannerkrewson/spyfall"
 			target="_blank"
 			rel="noopener noreferrer"
 		>
